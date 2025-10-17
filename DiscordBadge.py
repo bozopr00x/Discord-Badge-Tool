@@ -86,7 +86,7 @@ def main():
         print(BOZO_BANNER)
         print_rainbow("Welcome to BOZO's Ultimate Discord Badge Tool")
         print(f"{Colors.BLUE}© Created by BOZO - {datetime.now().year}{Colors.ENDC}\n")
-        print(f"{Colors.GREEN}© User Discord ➤  8ejj | Github ➤  https://github.com/bozopr00x  {Colors.ENDC}\n")
+        print(f"{Colors.GREEN}© User Discord ➤  0psk | Github ➤  https://github.com/bozopr00x  {Colors.ENDC}\n")
         
         # Get bot token first
         token = get_bot_token()
@@ -173,3 +173,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
